@@ -22,7 +22,7 @@ function App() {
           Le nombre est de {count}
         </button>
         <p>
-          Éditez <code>src/App.jsx</code> et sauvegardez pour tester HMR — dernière modif : {new Date().toLocaleTimeString()}
+          Éditez <code>src/App.jsx</code>{' '}et sauvegardez pour tester HMR — dernière modif : {new Date().toLocaleTimeString()}
         </p>
       </div>
       <p className="read-the-docs">

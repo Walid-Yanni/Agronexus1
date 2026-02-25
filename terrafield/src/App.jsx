@@ -22,7 +22,7 @@ function App() {
           Le nombre est de {count}
         </button>
         <p>
-          Éditez <code>src/App.jsx</code> et sauvegardez pour tester HMR
+          Éditez <code>src/App.jsx</code>{' '}et sauvegardez pour tester HMR
         </p>
       </div>
       <p className="read-the-docs">
